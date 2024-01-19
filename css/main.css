@@ -1,0 +1,28 @@
+body {
+    
+}
+
+.pets {
+    text-align: center;
+}
+
+h1 {
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.cat {
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.error-cat {
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.cow {
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
